@@ -2,7 +2,8 @@
 
 ## Utilize Helper Libraries:
 
-- Love2D has a vibrant community with awesome libraries. Here are a few good ones:
+Love2D has a vibrant community with awesome libraries. Here are a few good ones:
+
 - bump.lua: Collision detection
 - hump.gamestate: Advanced state management
 - anim8: Animation helper
